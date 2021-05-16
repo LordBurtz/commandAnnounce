@@ -1,0 +1,4 @@
+main: me.lordburtz.announceCommand.announceCommand
+name: announceCommand
+version: 1.0
+description: announces every Command issued by a OP
